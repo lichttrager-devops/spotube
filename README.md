@@ -36,7 +36,7 @@
 ## 🧑‍🔧 Ручная установка (если предпочитаешь)
 
 ```bash
-git clone https://github.com/username/spotube.git
+git clone https://github.com/lichttrager-devops/anyforu.git
 cd spotube
 python -m venv venv
 venv\Scripts\activate
